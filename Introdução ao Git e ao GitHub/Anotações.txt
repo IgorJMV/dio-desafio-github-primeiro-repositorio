@@ -1,0 +1,7 @@
+======================================= ANOTAÇÕES =======================================
+------------------------------------------------------------------------ Links ------------------------------------------------------------------------
+Link guia básico de Markdown: https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
+
+
+--------------------------------------------------------------------- Definições ---------------------------------------------------------------------
+Git é um sistema de controle de versão distribuído, enquanto o GitHub é uma plataforma de hospedagem de código fonte.
