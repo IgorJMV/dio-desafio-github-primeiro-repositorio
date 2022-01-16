@@ -3,21 +3,15 @@ Primeiro desafio da DIO: projeto sobre Git/Github.
 
 - Os cursos serão organizados por pastas.
 
-# _________________________________________________________________________________________________________________________________________________________________________________________________
-
 ## Desafio 1
 
 Você receberá dois valores inteiros. Faça a leitura e em seguida calcule o produto entre estes dois valores. Atribua esta operação à variável **PROD,** mostrando esta de acordo com a mensagem de saída esperada (exemplo abaixo).
 
 ![image-20220116191614877](C:\Users\igorj\AppData\Roaming\Typora\typora-user-images\image-20220116191614877.png)
 
-# _________________________________________________________________________________________________________________________________________________________________________________________________
-
 ## Desafio 2
 
 Leia um valor inteiro **N**. Apresente todos os números entre 1 e 10000 que divididos por **N** dão resto igual a 2.
-
-# _________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## Desafio 3
 
