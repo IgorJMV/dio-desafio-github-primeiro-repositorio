@@ -23,6 +23,28 @@ Imprima uma linha na saída. A linha deve conter um inteiro, representando a cor
 
 ![image-20220116193844565](https://github.com/IgorJMV/dio-desafio-github-primeiro-repositorio/blob/main/assets/desafio-3.png)
 
+# Desafio 4
+
+Crie um programa que leia 6 valores, os quais poderão ser negativos e/ou positivos. Em seguida, apresente a quantidade de valores positivos digitados.
+
+![image-20220116193844565](https://github.com/IgorJMV/dio-desafio-github-primeiro-repositorio/blob/main/assets/desafio-4.png)
+
+# Desafio 5
+
+Após os rivais Bruno e Guarte capturarem alguns Digitrons, eles resolveram batalhar entre eles. Então decidiram fazer isso de uma forma simples, com combates no modo 1x1 e vencendo quem tem o Digitron com maior valor de golpe, que é definido da seguinte forma:
+
+![image-20220116193844565](https://github.com/IgorJMV/dio-desafio-github-primeiro-repositorio/blob/main/assets/desafio-5.png)
+
+O Bônus será dado ao Digitron do treinador que estiver em um level de valor **par.**
+
+Neste problema será dado a você o valor do bônus aplicado, os valores de ataque e defesa do Digitron de Bruno e Guarte e seus respectivos níveis, cabe a você informar o vencedor da batalha.
+
+# Desafio 6
+
+Com base na tabela abaixo, escreva um programa que leia o código de um item e a quantidade deste item. A seguir, calcule e mostre o valor da conta a pagar.
+
+![image-20220116193844565](https://github.com/IgorJMV/dio-desafio-github-primeiro-repositorio/blob/main/assets/desafio-6.png)
+
 
 
 # Autor
